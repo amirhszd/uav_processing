@@ -30,7 +30,7 @@ To install, run:
 
 ```bash
 conda env create -f environment_anyos.yml
-conda activate geo-harmony311
+conda activate uav_processing311
 ```
 
-The environment (named `geo-harmony311`) includes all required dependencies: GDAL, Rasterio, NumPy, OpenCV, scikit-image, spectral, and many others — all pinned to exact versions for reproducibility.
+The environment (named `uav_processing311`) includes all required dependencies: GDAL, Rasterio, NumPy, OpenCV, scikit-image, spectral, and many others — all pinned to exact versions for reproducibility.
