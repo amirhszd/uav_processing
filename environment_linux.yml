@@ -1,4 +1,4 @@
-name: geo-harmony311
+name: uav_processing311
 channels:
   - conda-forge
   - defaults
